@@ -1,6 +1,6 @@
 <h1 align="center">Eae, meu nome é Leonardo Cavichiolli de Oliveira</h1>
 <h3 align="left">Desenvolvedor de Software - Brasil</h3>
-<img align="right" alt="Coding" width="400" src="https://33.media.tumblr.com/501cd35194d4c03c2e0cd970c2726354/tumblr_n6o5uozAGE1qbc2ylo1_500.gif">
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/tlprFPQJkcIAAAAC/not-bad-link.gif">
 
 - 🌱 Estou estudando... **Ferramentas de Cloud, Docker, Kubernetes, Linux e .Net Core.**
 
