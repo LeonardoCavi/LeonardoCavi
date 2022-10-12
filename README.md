@@ -2,6 +2,8 @@
 <h3 align="left">Desenvolvedor de Software - Brasil</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/tlprFPQJkcIAAAAC/not-bad-link.gif">
 
+- 🔭 Eu estou atualmente trabalhando com. **Desenvolvimento .net core e framework.**
+
 - 🌱 Estou estudando... **Ferramentas de Cloud, Docker, Kubernetes, Linux e .Net Core.**
 
 - 👨‍💻 Todos meus projetos estão em... [Git Hub - LeonardoCavi](https://github.com/LeonardoCavi).
