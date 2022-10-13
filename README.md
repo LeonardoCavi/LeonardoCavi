@@ -2,15 +2,12 @@
 <h3 align="left">Desenvolvedor de Software - Brasil</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/tlprFPQJkcIAAAAC/not-bad-link.gif">
 
-- 🔭 Eu estou atualmente trabalhando com. **Desenvolvimento .net core e framework.**
-
-- 🌱 Estou estudando... **Ferramentas de Cloud, Docker, Kubernetes, Linux e .Net Core.**
-
+- 🔭 Eu estou atualmente trabalhando com... **Desenvolvimento .net core e framework.**
+- 🌱 Estou estudando... **Ferramentas de Cloud, Docker, Kubernetes, Linux, Fundamentos de CI/CD e DevOps práticos e .Net Core.**
 - 👨‍💻 Todos meus projetos estão em... [Git Hub - LeonardoCavi](https://github.com/LeonardoCavi).
-
 - ⚡ Só para confirmar... **The Legend of Zelda é o melhor jogo que existe!!!**
 
-<h3 align="left">Me encontre em...</h3>
+<h3 align="left">Me encontre também em...</h3>
 <p align="left">
 <a href="https://br.linkedin.com/in/leonardo-cavichiolli-de-oliveira-783159180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://br.linkedin.com/in/leonardo-cavichiolli-de-oliveira-783159180" height="30" width="40" /></a>
 </p>
